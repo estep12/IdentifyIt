@@ -1,14 +1,14 @@
-#Identify It
+# Identify It
 
 https://identifyit.herokuapp.com/
 
 A crowdsourcing identification app that helps individuals indetify unusual/unidentifialble objects with the help of random users from around the web. The app is built using React, Node and Express. MongoDB was used as the database and a Socket.io websocket was utilized for real-time notifications.
 
-##Getting Started
+## Getting Started
 
 To get started, follow the link above and create an account. If you already have an accoutn, simply click login. The app utilized Google OAuth, so creating and logining in is simple!
 
-##Using The App
+## Using The App
 
 Once you've created an account and logged in, you're ready to start identifying objects or asking for help with your own unsolvable items!
 
